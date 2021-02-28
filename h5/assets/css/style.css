@@ -588,6 +588,26 @@ div.owl-controls, .owl-controls div {
   background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-code.png);
 }
 
+.news-bg-10 {
+  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-linux.png);
+}
+
+.news-bg-11 {
+  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-mysql.png);
+}
+
+.news-bg-12 {
+  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-docker.png);
+}
+
+.news-bg-13 {
+  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-jvm.png);
+}
+
+.news-bg-14 {
+  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-nacos.png);
+}
+
 .latest-news-bg {
   height: 250px;
   background-size: cover;
@@ -597,6 +617,17 @@ div.owl-controls, .owl-controls div {
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
 }
+
+.latest-news-bg-high {
+  height: 650px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 3px;
+  background-color: #ddd;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
 
 .single-latest-news h3 a {
   color: #333;
