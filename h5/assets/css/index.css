@@ -342,7 +342,7 @@ ul.navbar-nav {
 
 /*=============================Hero area==============================*/
 .hero-bg {
-  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-bg.jpg);
+  background-image: url(//cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-bg.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -553,59 +553,59 @@ div.owl-controls, .owl-controls div {
 
 /*===========================News css===========================*/
 .news-bg-1 {
-  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-flow1.png);
+  background-image: url(//cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-flow1.png);
 }
 
 .news-bg-2 {
-  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-flow2.png);
+  background-image: url(//cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-flow2.png);
 }
 
 .news-bg-3 {
-  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-flow3.png);
+  background-image: url(//cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-flow3.png);
 }
 
 .news-bg-4 {
-  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-role.png);
+  background-image: url(//cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-role.png);
 }
 
 .news-bg-5 {
-  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-data-scope.png);
+  background-image: url(//cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-data-scope.png);
 }
 
 .news-bg-6 {
-  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-api-scope.png);
+  background-image: url(//cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-api-scope.png);
 }
 
 .news-bg-7 {
-  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-oss.png);
+  background-image: url(//cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-oss.png);
 }
 
 .news-bg-8 {
-  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-report.png);
+  background-image: url(//cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-report.png);
 }
 
 .news-bg-9 {
-  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-code.png);
+  background-image: url(//cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-code.png);
 }
 
 .news-bg-10 {
-  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-linux.png);
+  background-image: url(//cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-linux.png);
 }
 
 .news-bg-11 {
-  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-mysql.png);
+  background-image: url(//cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-mysql.png);
 }
 
 .news-bg-12 {
-  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-docker.png);
+  background-image: url(//cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-docker.png);
 }
 
 .news-bg-13 {
-  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-jvm.png);
+  background-image: url(//cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-jvm.png);
 }
 
 .news-bg-14 {
-  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-nacos.png);
+  background-image: url(//cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-nacos.png);
 }
 
 .latest-news-bg {
@@ -1111,7 +1111,7 @@ a.video-play-btn {
 }
 
 .advertisement-bg {
-  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-framework.png);
+  background-image: url(//cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-framework.png);
 }
 
 .advertisement-bg {
@@ -1185,7 +1185,7 @@ a.video-play-btn {
 }
 
 .featured-bg {
-  background-image: url(https://cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-bg.jpg);
+  background-image: url(//cdn.jsdelivr.net/gh/chillzhuang/cdn@master/h5/assets/image/blade-bg.jpg);
 }
 
 .featured-box {
